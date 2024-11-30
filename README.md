@@ -21,7 +21,7 @@
 
 2. Предоставить скриншот таблицы NAT трансляций с Router3.
 
- ![Image alt]
+ ![Image alt](https://github.com/shualyyyyy/complete/blob/main/Router_3_NAT.jpg)
  
 3. Предоставить скриншот таблицы маршрутизации с Router0.
 
