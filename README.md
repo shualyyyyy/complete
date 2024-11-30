@@ -19,3 +19,10 @@
 
  ![Image alt](https://github.com/shualyyyyy/complete/blob/main/HTTP_HTTPS.jpg)
 
+2. Предоставить скриншот таблицы NAT трансляций с Router3.
+
+ ![Image alt]
+ 
+3. Предоставить скриншот таблицы маршрутизации с Router0.
+
+  ![Image alt]
