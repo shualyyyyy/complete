@@ -17,5 +17,5 @@
 
 1. Предоставить скриншоты открытых разных сайтов по одному доменному имени.
 
-   https://github.com/shualyyyyy/complete/blob/main/HTTP_HTTPS.jpg
+ ![Image alt](https://github.com/shualyyyyy/complete/blob/main/HTTP_HTTPS.jpg)
 
