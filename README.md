@@ -25,4 +25,4 @@
  
 3. Предоставить скриншот таблицы маршрутизации с Router0.
 
-  ![Image alt]
+  ![Image alt](https://github.com/shualyyyyy/complete/blob/main/Router0_route.jpg)
